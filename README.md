@@ -1,6 +1,10 @@
 # Credits
 
-Developer: tylerzz /nTelegram: t.me/TyProjects /nGithub: github.com/xTylerzz
+Developer: tylerzz /
+
+Telegram: t.me/TyProjects 
+
+Github: github.com/xTylerzz
 
 # Staff-mode
 
