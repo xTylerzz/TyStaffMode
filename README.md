@@ -1,6 +1,6 @@
 # Credits
 
-Developer: tylerzz /
+Developer: tylerzz 
 
 Telegram: t.me/TyProjects 
 
